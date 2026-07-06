@@ -1,0 +1,7 @@
+module bitscinvert(
+input x, output y);
+
+always @(*) begin 
+y ~= x; end 
+
+endmodule

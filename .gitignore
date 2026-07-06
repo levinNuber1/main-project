@@ -1,0 +1,7 @@
+db/
+incremental_db/
+*.rpt
+*.chg
+*.htm
+*.log
+*.done
